@@ -1,0 +1,16 @@
+E Name: Lucy BlazerId: 1995
+
+DName: John BlazerId: 1187 Specialty: Gastro
+DName: Samuel BlazerId: 4891 Specialty: Radiology
+
+SName: Steve BlazerId: 4345 Specialty: Brain Operating: Y
+
+NName: Julia BlazerId: 1254 Number of Patients: 4
+
+AName: Jacob BlazerId: 4123 Department: Business
+AName: Catherine BlazerId: 4125 Department: Management
+
+RName: Alice BlazerId: 4101 Department: Talking Answering: Y
+
+JName: David BlazerId: 4789 Department: Maintenance Sweeping: N
+

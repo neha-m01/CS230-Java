@@ -1,0 +1,21 @@
+**********************************
+Welcome to the UAB Employee System
+**********************************
+The UAB Hospital System has the following employees: 
+
+Total Number of employees = 0
+
+Hospital Employees: 0
+
+Doctors: 0
+
+Surgeons: 0
+
+Nurses: 0
+
+Administrators: 0
+
+Receptionists: 0
+
+Janitors: 0
+
